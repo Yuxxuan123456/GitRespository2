@@ -1,5 +1,5 @@
 public class gitDemo {
-    public static void main(String[] args) {
-
-    }
+    private long  weight;
+    private String like;
+    private int age;
 }
