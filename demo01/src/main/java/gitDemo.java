@@ -4,8 +4,7 @@ public class gitDemo {
     private int age;
     private int money;
     private String color;
-
-
+    private String name;
 
 
 }
