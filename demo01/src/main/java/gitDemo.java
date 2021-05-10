@@ -3,6 +3,9 @@ public class gitDemo {
     private String like;
     private int age;
     private int money;
+    private String color;
+
+
 
 
 }
